@@ -12,34 +12,37 @@ app.get("/", async (req, res) => {
       const html = response.data
       const $ = cheerio.load(html)
 
-      //const h2 = $("header.c_h h2").text()
-     // const p = $("p.c_d").text()
-     // console.log(p)
-      
+      let noticias = [];
+        $('.b-st_a article.c.c-d.c--m').each((index, element)=>{
+            const title=$(element).find('h2').text();
+            const img = $(element).find('img').attr('src');
+            const parrafo=$(element).find('p').text();
+            const link = $(element).find('a').attr('href');
+        
+            const noticia = {
+                titulo: title,
+                imagen: img,
+                descripcion: parrafo,
+                enlace: link,
+            };
+        noticias.push(noticia)
+        })
 
-      
-
-      const links = []
-      const titulos = []
-      $("article.c c-d c--m ").each((i,elemento) => {
-        const link = $(elemento).find('a').attr("href")
-        const titulo = $(elemento).find('h2.c_t').text()
-        links.push(link)
-        titulos.push(titulo)
-        console.log(titulos)
-      })    
-
-    let noticias = []
-      const noticia = {
-        titulo: titulos,
-        imagen: "",
-        descripcion: "",
-        enlace: links,
-      };
-      noticias.push(noticia)
 
 fs.writeFileSync('noticias.json', JSON.stringify(noticias, null, 2))
 
+res.send(`
+  <p>Noticas</p>
+  <ul>
+    ${noticias.map(noticia => `
+      <li>
+        <h2><a href="${noticia.enlace}">${noticia.titulo}</a></h2>
+        <img src="${noticia.imagen}" alt="${noticia.titulo}" />
+        <p>Descripción: ${noticia.descripcion}</p>
+      </li>
+    `).join('')}
+  </ul>
+`)
 
     } catch (error) {
         console.error(`el error es el ${error}`)
