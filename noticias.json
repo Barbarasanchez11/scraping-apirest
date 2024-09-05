@@ -1,5 +1,45 @@
 [
   {
+    "titulo": "Macron nombra al conservador Michel Barnier primer ministro de Francia tras 51 días de bloqueo político",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/YIFQ256VNBBGHCFWSPCFD7LDYM.jpg?auth=20d89de9f1447545c8337a6be65908e4e6e292e1ee32a35bb4d09071763d5f3e&width=414&height=233&smart=true",
+    "descripcion": "“Habrá que respetar a todas las fuerzas políticas”, señala el ya jefe de Gobierno en clara referencia a los partidos de Le Pen y Mélenchon. La izquierda reacciona indignada a la decisión del presidente ",
+    "enlace": "https://elpais.com/internacional/2024-09-05/macron-nombra-a-michel-barnier-como-primer-ministro-de-francia.html"
+  },
+  {
+    "titulo": "La amnistía sobrevoló en el acto del Supremo",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/4TMASR6XWBDT3G37ZUJFN6NXVA.jpg?auth=437e6fe2f061e097573b92805a4b68d373a781f0ca1b757df37d4ebc97fe42c8&width=414&height=233&smart=true",
+    "descripcion": "El conservador José María Macías será el ponente del recurso presentado por el PP. El Gobierno esperaba que se abstuviese en la deliberación",
+    "enlace": "https://elpais.com/espana/2024-09-05/la-amnistia-sobrevolo-en-el-acto-del-supremo.html"
+  },
+  {
+    "titulo": "Gisèle Pélicot declara en el juicio por agresión sexual y sumisión química: “Violación no es la palabra correcta, es barbarie”",
+    "descripcion": "",
+    "enlace": "https://elpais.com/noticias/violencia-machista/"
+  },
+  {
+    "titulo": "El virus del Nilo se cobra la sexta víctima mortal",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/SZBWNI64GZPNXHIPH6V6DORNXM.jpg?auth=9e0a07341fde2002bcc3c360c10a7d3f9f634872e4fe5464298c08411376f982&width=414&height=233&focal=2510%2C1333",
+    "descripcion": "La fallecida se infectó en agosto en Utrera (Sevilla) y ha muerto en Navarra, comunidad en la que residía",
+    "enlace": "https://elpais.com/sociedad/2024-09-05/el-virus-del-nilo-se-cobra-la-sexta-victima-mortal.html"
+  },
+  {
+    "titulo": "Ayuso azuza a los barones del PP a no participar en la ronda de reuniones bilaterales de Sánchez: “Quiere sobornarnos y diluir a Feijóo”",
+    "descripcion": "La baronesa reclama que la financiación autonómica se trate de forma multilateral",
+    "enlace": "https://elpais.com/noticias/pp-partido-popular/"
+  },
+  {
+    "titulo": "La francesa Gisèle Pélicot declara en el juicio por agresión sexual y sumisión química: “Violación no es la palabra correcta, es barbarie”",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/OB34P6CDCHJGY5S4BNRQVSM4VQ.jpg?auth=5c5f400d2fc9817701da60221439fbc6aed4355c90201c493772eb120cf40544&width=414&height=233&smart=true",
+    "descripcion": "La mujer a quien su marido drogaba para que otros hombres la violaran cuenta cómo se enteró de lo sucedido y por qué testifica en público: “Lo hago en nombre de todas esas mujeres que quizás nunca serán reconocidas como víctimas”",
+    "enlace": "https://elpais.com/sociedad/2024-09-05/la-francesa-gisele-pelicot-declara-en-el-juicio-por-agresion-sexual-y-sumision-quimica-violacion-no-es-la-palabra-correcta-es-barbarie.html"
+  },
+  {
+    "titulo": "Milei, en el Foro Madrid en Buenos Aires: “Estoy haciendo el mejor Gobierno de la historia argentina”",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/ZUAUAMJVMBDYRAMIBFU5VT6THM.jpeg?auth=40ac6ec2fb53cd028226c3f05d2314cb1af31b0d505981be752b6ad11d38aa5a&width=414&height=233&smart=true",
+    "descripcion": "El presidente es la estrella de un nuevo encuentro de las fuerzas de la ultraderecha organizado por Vox y la Fundación Disenso",
+    "enlace": "https://elpais.com/argentina/2024-09-05/milei-en-el-foro-madrid-en-buenos-aires-estoy-haciendo-el-mejor-gobierno-de-la-historia-argentina.html"
+  },
+  {
     "titulo": "Macron también ha traicionado a sus votantes",
     "imagen": "https://imagenes.elpais.com/resizer/v2/ZDYPGICGBZACJAR26I5KABQQNE.jpg?auth=f1c83e9bb17be67e056cfa3887409450fe46a6ffb79192ecb3acf573cf997ae6&width=414&height=233&focal=1856%2C1141",
     "descripcion": "El presidente francés cambia las reglas de juego sobre la marcha al nombrar a un primer ministro conservador, en contra del resultado electoral",
@@ -230,7 +270,7 @@
   {
     "titulo": "Macron nombra al conservador Michel Barnier primer ministro de Francia tras 51 días de bloqueo político",
     "imagen": "https://imagenes.elpais.com/resizer/v2/YIFQ256VNBBGHCFWSPCFD7LDYM.jpg?auth=20d89de9f1447545c8337a6be65908e4e6e292e1ee32a35bb4d09071763d5f3e&width=414&height=233&smart=true",
-    "descripcion": "El exnegociador del Brexit, un experimentado político conservador de 73 años, es finalmente el elegido por el presidente, una decisión que indigna a la izquierda ",
+    "descripcion": "“Habrá que respetar a todas las fuerzas políticas”, señala el ya jefe de Gobierno en clara referencia a los partidos de Le Pen y Mélenchon. La izquierda reacciona indignada a la decisión del presidente ",
     "enlace": "https://elpais.com/internacional/2024-09-05/macron-nombra-a-michel-barnier-como-primer-ministro-de-francia.html?autoplay=1"
   },
   {
@@ -302,7 +342,7 @@
   {
     "titulo": "La policía de Múnich abate de varios disparos a un joven austriaco armado cerca del consulado de Israel",
     "imagen": "https://imagenes.elpais.com/resizer/v2/EQY5BUW4ZJACRCJ5C7SCPDIG4A.jpg?auth=0628227178cf8157f7989d2f695678d158016d123df7e5a86e205fce33f4928f&width=414&height=233&focal=3311%2C1787",
-    "descripcion": "El incidente se produce en el aniversario del atentado de 1972 en los Juegos Olímpicos de Múnich, en el que terroristas palestinos asesinaron a 11 atletas israelíes",
+    "descripcion": "Las autoridades investigan como atentado terrorista el incidente, que se produce en el aniversario del atentado de 1972 en los Juegos Olímpicos de Múnich, en el que terroristas palestinos asesinaron a 11 atletas israelíes",
     "enlace": "https://elpais.com/internacional/2024-09-05/la-policia-de-munich-abate-de-varios-disparos-a-un-sospechoso-armado-cerca-del-consulado-de-israel.html?autoplay=1"
   },
   {
@@ -436,17 +476,5 @@
     "imagen": "https://imagenes.elpais.com/resizer/v2/XVSIPUMCHJGKTKDYQ6JGKAPFLI.jpg?auth=6e45d1aef8640d7f6d320af9d0e42ada1e9eb7f4eb7bf77a45bc8b855aa47636&width=414&height=233&smart=true",
     "descripcion": "Hamás no ve necesaria una nueva propuesta de alto el fuego en Gaza y pide presionar a Israel | Comienza la segunda fase de la campaña de vacunación contra la polio en el sur de la Franja ",
     "enlace": "https://elpais.com/internacional/2024-09-05/guerra-entre-israel-y-gaza-en-directo.html"
-  },
-  {
-    "titulo": "Así es la funda nórdica más vendida: todo el mundo la quiere ",
-    "imagen": "https://imagenes.elpais.com/resizer/v2/GSI22EW57BA4NFCBMYKWEO74BY.png?auth=e7239dd0e5e3cf9f704d5a8b3263bedd240cd41dfc342e9a7a6ba5712882a8c8&width=414&height=233&smart=true",
-    "descripcion": "Fabricada en microfibra cepillada y disponible en una gran variedad de colores, este juego de fundas para el edredón y las almohadas acumula ya más de 40.000 valoraciones en Amazon",
-    "enlace": "https://elpais.com/escaparate/2024-09-05/utopia-tu-funda-nordica-para-el-edredon.html"
-  },
-  {
-    "titulo": "El chollo del día: un monitor HP por menos de 100 euros para estrenar curso",
-    "imagen": "https://imagenes.elpais.com/resizer/v2/PK5XRXFOLJELTBJ5QJRJKYD5WM.png?auth=f3e60e3bb53185f6a92bda469376dd6fa340c6e81beda63ae379349754503e45&width=414&height=233&smart=true",
-    "descripcion": "La vuelta al cole siempre tiene asociados grandes descuentos en plataformas como Amazon: ahorra más de 50 euros en este monitor para PC de 24 pulgadas",
-    "enlace": "https://elpais.com/escaparate/ofertas-y-descuentos/2024-09-05/chollos-del-dia.html"
   }
 ]

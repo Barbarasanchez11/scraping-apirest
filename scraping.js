@@ -13,7 +13,7 @@ app.get("/", async (req, res) => {
       const $ = cheerio.load(html)
 
       let noticias = [];
-        $('.b-st_a article.c.c-d.c--m').each((index, element)=>{
+        $('article').each((index, element)=>{
             const title=$(element).find('h2').text();
             const img = $(element).find('img').attr('src');
             const parrafo=$(element).find('p').text();
